@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q2a',
     'points': 2,
     'suites': [   {   'cases': [   {'code': '>>> type(zip_counts) == pd.Series\nTrue', 'hidden': False, 'locked': False},

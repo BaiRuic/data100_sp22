@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q3bi',
     'points': 2,
     'suites': [   {   'cases': [   {'code': ">>> 'bid' in ins.columns\nTrue", 'hidden': False, 'locked': False},

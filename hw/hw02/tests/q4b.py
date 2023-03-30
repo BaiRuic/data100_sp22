@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q4b',
     'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> twenty_lowest_scoring.shape == (20, 2)\nTrue', 'hidden': False, 'locked': False},

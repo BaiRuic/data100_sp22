@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q2d',
     'points': 2,
     'suites': [   {   'cases': [   {'code': '>>> type(missing_zip_address_count) == pd.Series\nTrue', 'hidden': False, 'locked': False},
