@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q4d',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> df = pd.DataFrame({"full_text": ["a clean tweet", "an UPPPERcAsE tweet", "a ! tweet!!with..(*UF)punctuation"]})\n'

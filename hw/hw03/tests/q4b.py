@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q4b',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(sent, pd.DataFrame)\nTrue', 'hidden': False, 'locked': False},
