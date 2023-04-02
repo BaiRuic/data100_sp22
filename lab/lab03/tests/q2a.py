@@ -1,3 +1,4 @@
+OK_FORMAT = 1
 test = {   'name': 'q2a',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> set(calls["Day"]) == {\'Friday\', \'Monday\', \'Saturday\', \'Sunday\', \'Thursday\', \'Tuesday\', \'Wednesday\'}\nTrue',
